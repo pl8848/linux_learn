@@ -85,8 +85,8 @@
  ::echo Port=VPN4-0
  ::echo Device=WAN 微型端口 (L2TP^)
  ::echo DEVICE=VPN
- ::echo PhoneNumber=oa.sevenocean.cn
- ::rem 上面创建连接地址(这里为：oa.sevenocean.cn)
+ ::echo PhoneNumber=xxxxxxxx.cn
+ ::rem 上面创建连接地址(这里为：xxxxxxean.cn可以是IP)
  ::echo AreaCode=
  ::echo CountryCode=1
  ::echo CountryID=1
